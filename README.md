@@ -6,7 +6,7 @@
    This project was created as part of a virtual, self-paced learning program with a coding club.
     
    I used HTML 5 and CSS 3 languages to create the website.
-   Besides using basic HTML tag elements, uploading images, CSS styling rules using classes and IDs etc., additionally, I learnt about incorporating buttons and <div> tags in webpages.
+   Besides using basic HTML tag elements, uploading images, CSS styling rules using classes and IDs etc., additionally, I learnt about incorporating buttons and div tags in webpages.
   
    I used wireframes to come up with the layout of the website.
    Furthermore, the code was written using the Replit IDE.
